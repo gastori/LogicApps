@@ -3,10 +3,10 @@ author: Giulio Astori
 
 This Logic App is used to disable AAD account and revoke all bearer token. Sends notification to the user account's manager if exist or to an email you confugure during the provisioning.
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FGastori%2FLogicApps%2Fmaster%2Fmdc-disable-account-revoke-token%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FGastori%2FLogicApps%2Fmdc-disable-account-revoke-token%2Fazuredeploy.json" target="_blank">
     <img src="https://aka.ms/deploytoazurebutton"/>
 </a>
-<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FGastori%2FLogicApps%2Fmaster%2Fmdc-disable-account-revoke-token%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FGastori%2FLogicApps%2Fmdc-disable-account-revoke-token%2Fazuredeploy.json" target="_blank">
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazuregov.png"/>
 </a>
 
