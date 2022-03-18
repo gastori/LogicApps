@@ -1,1 +1,1 @@
-### This if Azure Global
+### This if for Azure Global
