@@ -1,4 +1,4 @@
-# Notify-ASCAlertsAzureResource
+# Disable AAD Account (non Admin) and revoke all Auth Tokens
 author: Giulio Astori
 
 This Logic App is used to disable AAD account and revoke all bearer token.<br>
